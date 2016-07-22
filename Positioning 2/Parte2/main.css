@@ -1,0 +1,20 @@
+.blue{
+	box-sizing: border-box;
+	background-color: #0080FF;
+	width: 300px;
+	position: relative;
+	padding: 100px;
+	margin: -8px;
+}
+.green{
+	background-color: #04B45F;
+	padding: 50px;
+}
+
+.black{
+	background-color: #2E2E2E;
+	padding:50px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}

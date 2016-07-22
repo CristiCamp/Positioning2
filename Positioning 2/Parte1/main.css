@@ -1,0 +1,26 @@
+.red{
+	background-color: #FA5858;
+	width: 400px;
+	height: 400px;
+	position: static;
+}
+.purple{
+	background-color: #9A2EFE;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	bottom:0px;
+	right:0px;
+}
+.yellow{
+	background-color: #F4FA58;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 100px;
+	left:100px;
+	bottom:0px;
+	right:0px;
+}
